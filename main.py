@@ -1,9 +1,9 @@
 import pywhatkit as kit
 import time
 
-number = ""  # number with country code
+string number = input("Enter the number")  # number with country code
 
-message = "" #enter your message
+string message = input("Enter the message") #enter your message
 
 # Send message with loop
 for i in range(10):
